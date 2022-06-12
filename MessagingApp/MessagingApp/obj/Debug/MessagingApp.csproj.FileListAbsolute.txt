@@ -1,0 +1,13 @@
+C:\Users\NOVO\source\repos\MessagingApp\MessagingApp\bin\Debug\MessagingApp.exe.config
+C:\Users\NOVO\source\repos\MessagingApp\MessagingApp\bin\Debug\MessagingApp.exe
+C:\Users\NOVO\source\repos\MessagingApp\MessagingApp\bin\Debug\MessagingApp.pdb
+C:\Users\NOVO\source\repos\MessagingApp\MessagingApp\obj\Debug\MessagingApp.csproj.AssemblyReference.cache
+C:\Users\NOVO\source\repos\MessagingApp\MessagingApp\obj\Debug\MessagingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\NOVO\source\repos\MessagingApp\MessagingApp\obj\Debug\MessagingApp.Form1.resources
+C:\Users\NOVO\source\repos\MessagingApp\MessagingApp\obj\Debug\MessagingApp.Properties.Resources.resources
+C:\Users\NOVO\source\repos\MessagingApp\MessagingApp\obj\Debug\MessagingApp.csproj.GenerateResource.cache
+C:\Users\NOVO\source\repos\MessagingApp\MessagingApp\obj\Debug\MessagingApp.csproj.CoreCompileInputs.cache
+C:\Users\NOVO\source\repos\MessagingApp\MessagingApp\obj\Debug\MessagingApp.exe
+C:\Users\NOVO\source\repos\MessagingApp\MessagingApp\obj\Debug\MessagingApp.pdb
+C:\Users\NOVO\source\repos\MessagingApp\MessagingApp\obj\Debug\MessagingApp.Messages.resources
+C:\Users\NOVO\source\repos\MessagingApp\MessagingApp\obj\Debug\MessagingApp.Xodimlar.resources
